@@ -1,0 +1,10 @@
+numpy
+transformers
+soundfile
+librosa
+einops
+vector_quantize_pytorch
+tqdm
+loguru
+click
+gradio

@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+*.ipynb
+*egg-info
+.pgx.*
+.pdm-python
+__pycache__
+ckpt*/
+memo*
+llm_gen*
+*bnk*
