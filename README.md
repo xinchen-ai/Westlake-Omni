@@ -25,6 +25,9 @@ Westlake-Omni is an open-source Chinese emotional speech interaction large langu
 
 ⚡ **Low-latency speech interaction, simultaneously generating text and speech responses.**
 
+https://github.com/user-attachments/assets/02a71c01-3384-4845-8e7f-4e0dda35d8f3
+
+
 
 ## Install
 
