@@ -41,6 +41,15 @@ cd Westlake-Omni
 pip install -r requirements.txt
 ```
 
+Pull the checkpoints from the Hugging Face model hub:
+
+```sh
+huggingface-cli login
+# Then enter your Hugging Face token
+mkdir -p ckpt
+huggingface-cli download xinchen-ai/Westlake-Omni --local-dir ckpt
+```
+
 ## Quick start
 
 **Interactive demo**
