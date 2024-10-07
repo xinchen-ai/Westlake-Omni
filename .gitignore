@@ -5,6 +5,7 @@
 .pdm-python
 __pycache__
 ckpt/*
+!ckpt/.gitkeep
 memo*
 llm_gen*
 *bnk*
