@@ -64,7 +64,7 @@ python generate.py --user-audio data/sounds/input.wav
 - [fish-speech](https://github.com/fishaudio/fish-speech) The codebase we built upon.
 - [Qwen2](https://github.com/QwenLM/Qwen2/) as the LLM backbone.
 
-## Lincese
+## License
 The current code and the vqgan model weights are provided under the CC-BY-NC-SA-4.0 License. The large language model weights are provided under the Apache 2.0 License. Note that parts of this code are based on Fish speech, released under the CC-BY-NC-SA-4.0 License.
 
 ## Contact
