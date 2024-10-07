@@ -4,7 +4,7 @@
 .pgx.*
 .pdm-python
 __pycache__
-ckpt*/
+ckpt/*
 memo*
 llm_gen*
 *bnk*
